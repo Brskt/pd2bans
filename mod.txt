@@ -1,0 +1,23 @@
+{
+	"name" : "PD2Bans",
+	"description" : "Cheater list for playing without cheaters",
+	"author" : "Dr_Newbie code & Modification by Brskt",
+	"contact" : "https://brskt.be",
+	"blt_version" : 2.0,
+	"version" : "r11",
+	"priority" : 100,
+	"hooks" : [
+		{ "hook_id" : "lib/managers/hudmanagerpd2", "script_path" : "lua/mark.lua" },
+		{ "hook_id" : "lib/network/handlers/unitnetworkhandler", "script_path" : "lua/kick_ban.lua" },
+		{ "hook_id" : "lib/network/matchmaking/networkmatchmakingsteam", "script_path" : "lua/kick_ban.lua" },
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/read_file.lua" }
+	],
+	"updates" : [
+		{
+			"identifier" : "pd2bans",
+			"host": {
+				"meta": "https://github.com/Brskt/pd2bans/raw/autoupdate/meta.json"
+			}
+		}
+	]
+}
