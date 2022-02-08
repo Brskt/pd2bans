@@ -2,7 +2,7 @@
 	"name" : "PD2Bans",
 	"description" : "Cheater list for playing without cheaters",
 	"author" : "Dr_Newbie code & Modification by Brskt",
-	"contact" : "https://brskt.be",
+	"contact" : "contact@brskt.be",
 	"blt_version" : 2.0,
 	"version" : "r11",
 	"priority" : 100,
