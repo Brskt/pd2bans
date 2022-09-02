@@ -2,9 +2,9 @@
 	"name" : "PD2Bans",
 	"description" : "Cheater list for playing without cheaters",
 	"author" : "Dr_Newbie code & Modification by Brskt",
-	"contact" : "https://brskt.be",
+	"contact" : "contact@brskt.be",
 	"blt_version" : 2.0,
-	"version" : "r11",
+	"version" : "r12",
 	"priority" : 100,
 	"hooks" : [
 		{ "hook_id" : "lib/managers/hudmanagerpd2", "script_path" : "lua/mark.lua" },
