@@ -1,8 +1,8 @@
 [
     {
         "ident": "pd2bans",
-        "hash": "938133735699fd873c0c6d46c6dd3f7209a7f7225f3b927625a45f9ab49b496e",
-        "patchnotes_url": "https://brskt.github.io/pd2bans/patchnotes_r11.html",
-        "download_url": "https://github.com/Brskt/pd2bans/raw/autoupdate/pd2bans_r11.zip"
+        "hash": "a83be4267b7c7fad411bd869c24e3521f8dd87003442a1ee1884dbc3567bca9f",
+        "patchnotes_url": "https://brskt.github.io/pd2bans/patchnotes_r12.html",
+        "download_url": "https://github.com/Brskt/pd2bans/raw/autoupdate/pd2bans_r12.zip"
     }
 ]
